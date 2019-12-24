@@ -23,3 +23,4 @@
 * [Rich feature hierarchies for accurate object detection and semantic segmentationTech report (v5)](https://arxiv.org/pdf/1311.2524.pdf)
 ### Sites
 * [Intersection over Union (IoU) for object detection](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
+* [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
