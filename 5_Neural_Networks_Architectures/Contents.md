@@ -7,6 +7,10 @@
 
 ## Links
 
+* [Joseph Redmon et al. "You Only Look Once:Unified, Real-Time Object Detection"](https://arxiv.org/pdf/1506.02640.pdf)
+* [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+* [Intersection over Union (IoU) for object detection](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
+* [Ross Girshick et all. "Rich feature hierarchies for accurate object detection and semantic segmentation"](https://arxiv.org/pdf/1311.2524.pdf)
 * [Raghavendra Chalapathy "ANOMALY DETECTION  USING ONE-CLASS NEURAL NETWORKS"](https://arxiv.org/pdf/1802.06360.pdf)
 * [Oriol Vinyals et al. "Show and Tell: A Neural Image Caption Generator"](https://arxiv.org/pdf/1411.4555.pdf)
 * [Source code: Show and Tell: A Neural Image Caption Generator](https://github.com/tensorflow/models/tree/master/research/im2txt)
