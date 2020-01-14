@@ -7,6 +7,9 @@
 
 ## Links
 * [FrozenLake-v0](https://gym.openai.com/envs/FrozenLake-v0/)
+* [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286)
+* [Video: Emergence of Locomotion Behaviours in Rich Environments](https://www.youtube.com/watch?v=hx_bgoTF7bs)
+* [Policy Based Reinforcement Learning, the Easy Way](https://towardsdatascience.com/policy-based-reinforcement-learning-the-easy-way-8de9a3356083)
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
 * [Human-level control through deep reinforcementlearning](http://files.davidqiu.com/research/nature14236.pdf)
 * [Playing Snake with Deep Q-Learning by Daniele Grattarola](https://github.com/danielegrattarola/deep-q-snake)
