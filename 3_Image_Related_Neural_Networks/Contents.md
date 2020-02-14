@@ -16,7 +16,7 @@
 * [Gradient-Based Learning Applied to Document Recognition (LeNet-5)](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 * [ImageNet Classification with Deep ConvolutionalNeural Networks (AlexNet)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG-19)](https://arxiv.org/abs/1409.1556)
-* [Network In Network](https://arxiv.org/abs/1312.4400)
+* [Network In Network (1x1 convolutions)](https://arxiv.org/abs/1312.4400)
 * [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842v1.pdf)
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v3.pdf)
 * [Inception-v4, Inception-ResNet andthe Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf)
