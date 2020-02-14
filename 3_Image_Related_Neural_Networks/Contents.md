@@ -21,7 +21,7 @@
 * [Rethinking the Inception Architecture for Computer Vision (Inception v2 and v3)](https://arxiv.org/pdf/1512.00567v3.pdf)
 * [Inception-v4, Inception-ResNet andthe Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf)
 * [You Only Look Once:Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
-* [Rich feature hierarchies for accurate object detection and semantic segmentationTech report (v5)](https://arxiv.org/pdf/1311.2524.pdf)
+* [Rich feature hierarchies for accurate object detection and semantic segmentationTech report (v5) (R-CNN)](https://arxiv.org/pdf/1311.2524.pdf)
 ### Sites
 * [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 * [Easy Image Classification with TensorFlow 2.0](https://towardsdatascience.com/easy-image-classification-with-tensorflow-2-0-f734fee52d13)
