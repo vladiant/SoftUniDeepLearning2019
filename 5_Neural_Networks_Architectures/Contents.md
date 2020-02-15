@@ -18,6 +18,7 @@
 * [Very Deep Convolutional Networks for Large-Scale Visual Recognition (VGG19)](https://www.robots.ox.ac.uk/~vgg/research/very_deep/)
 * [Rethinking the Inception Architecture for Computer Vision (Inception v3)](https://arxiv.org/abs/1512.00567)
 * [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (Inception-Resnet v2)](https://arxiv.org/abs/1602.07261)
+* [R-CNN, Fast R-CNN, Faster R-CNN, YOLO — Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
 * [Keras: Applications](https://keras.io/applications/)
 * [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
 * [Visualizing what ConvNets learn](https://cs231n.github.io/understanding-cnn/)
