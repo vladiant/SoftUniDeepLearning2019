@@ -15,6 +15,6 @@
 * [Linguistic Regularities in Continuous Space Word Representations](https://www.aclweb.org/anthology/N13-1090/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Long Short-Term Memory](http://www.bioinf.jku.at/publications/older/2604.pdf)
-* [Learning Phrase Representations using RNN Encoder–Decoderfor Statistical Machine Translation](https://arxiv.org/pdf/1406.1078v3.pdf)
+* [Learning Phrase Representations using RNN Encoder–Decoderfor Statistical Machine Translation (Gated recurrent unit GRU)](https://arxiv.org/pdf/1406.1078v3.pdf)
 * [Word embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)+
 * [AI DUNGEON 2](https://www.aidungeon.io/)
