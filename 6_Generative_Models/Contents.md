@@ -11,6 +11,7 @@
 * [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
 * [PixelCNN & PixelRNN in TensorFlow](https://github.com/carpedm20/pixel-rnn-tensorflow)
 * [Colorful Image Colorization](https://github.com/richzhang/colorization)
+* [Convolutional Neural Network based Image Colorization using OpenCV](https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/)
 * [Super Resolution Examples](https://github.com/tensorlayer/srgan)
 * [Make Music And Art Using Machine Learning](https://magenta.tensorflow.org/)
 * [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
