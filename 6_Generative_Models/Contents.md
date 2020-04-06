@@ -22,6 +22,8 @@
 * [Language Modelling and Text Generation using LSTMs — Deep Learning for NLP](https://medium.com/@shivambansal36/language-modelling-text-generation-using-lstms-deep-learning-for-nlp-ed36b224b275)
 * [Keras Music Generation](https://github.com/subpath/Keras_music_gereration)
 * [Generating Long-Term Structure in Songs and Stories](https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn)
+* [Build a simple Image Retrieval System with an Autoencoder](https://towardsdatascience.com/build-a-simple-image-retrieval-system-with-an-autoencoder-673a262b7921)
+* [Deep inside: Autoencoders](https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f)
 * [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 * [variational-autoencoder](https://github.com/kvfrans/variational-autoencoder)
 * [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
