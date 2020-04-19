@@ -27,3 +27,4 @@
 * [Easy Image Classification with TensorFlow 2.0](https://towardsdatascience.com/easy-image-classification-with-tensorflow-2-0-f734fee52d13)
 * [Intersection over Union (IoU) for object detection](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
 * [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+* [A Simple Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-simple-guide-to-convolutional-neural-networks-751789e7bd88)
