@@ -17,3 +17,4 @@
 * [OpenCV Custom deep learning layers support](https://docs.opencv.org/master/dc/db1/tutorial_dnn_custom_layers.html)
 * [Deep Learning with OpenCV](https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv/)
 * [opencv_extra/testdata/dnn/tensorflow/](https://github.com/opencv/opencv_extra/tree/master/testdata/dnn/tensorflow)
+* [Easy Image Classification with TensorFlow 2.0](https://towardsdatascience.com/easy-image-classification-with-tensorflow-2-0-f734fee52d13)
