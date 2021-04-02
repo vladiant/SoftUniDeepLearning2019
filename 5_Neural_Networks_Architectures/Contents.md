@@ -32,3 +32,4 @@
 * [HRADIŠ et al. "Convolutional Neural Networks for DirectText Deblurring"](http://www.bmva.org/bmvc/2015/papers/paper006/paper006.pdf)
 * [U-Net](https://en.wikipedia.org/wiki/U-Net)
 * [Papers With Code](https://paperswithcode.com/)
+* [Model Search](https://github.com/google/model_search)
